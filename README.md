@@ -1,5 +1,7 @@
 # MGS Delta UE4SS Fix
 
+![MGS Delta UE4SS Fix](https://github.com/user-attachments/assets/6b045161-0681-44ae-b6da-26782b7b40e3)
+
 **UE4SS compatibility fix for Metal Gear Solid Delta: Snake Eater**
 
 ## Installation
